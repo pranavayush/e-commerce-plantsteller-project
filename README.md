@@ -1,11 +1,100 @@
+# 🌿 PlantSteller
 
-  # Premium Plant E-commerce Website
+PlantSteller is a modern AI-powered plant e-commerce platform designed to help users discover, purchase, and care for plants through an intuitive and premium user experience.
 
-  This is a code bundle for Premium Plant E-commerce Website. The original project is available at https://www.figma.com/design/4LmE6SPaTDcNm2bdjkpags/Premium-Plant-E-commerce-Website.
+## ✨ Features
 
-  ## Running the code
+### 🛒 E-Commerce
+- Plant Shopping
+- Add to Cart
+- Wishlist/Favorites
+- Secure Checkout
+- Order Tracking
+- Product Reviews & Ratings
 
-  Run `npm i` to install the dependencies.
+### 🤖 Planty AI Assistant
+- Plant Care Guidance
+- Plant Disease Detection
+- Watering Recommendations
+- Fertilizer Suggestions
+- Indoor/Outdoor Plant Recommendations
+- Plant Benefits & Uses
 
-  Run `npm run dev` to start the development server.
-  
+### 🎁 Corporate Gift Booking
+- Bulk Orders
+- Corporate Gifting Solutions
+- Custom Plant Packages
+- Business Enquiries
+
+### 🌦️ Seasonal Offers
+- Summer Offers
+- Monsoon Offers
+- Winter Offers
+- Festival Discounts
+- Plants Starting from ₹49
+
+### 🔐 Security
+- JWT Authentication
+- Email Verification
+- Secure Login & Signup
+- Protected Routes
+- Password Encryption
+
+### ❤️ Community Features
+- Wishlist System
+- Reviews & Comments
+- Plant Recommendations
+- Personalized Experience
+
+## 🛠️ Tech Stack
+
+Frontend:
+- Next.js
+- React.js
+- Tailwind CSS
+- Framer Motion
+
+Backend:
+- Node.js
+- Express.js
+- MongoDB
+
+Authentication:
+- JWT
+- Bcrypt
+
+Payments:
+- Razorpay
+
+## 👨‍💻 Team
+
+### Pranav Ayush
+Co-Founder & Lead Developer
+B.Tech 3rd Year Student
+
+📧 pranavayush8@gmail.com
+📱 6392826369
+📷 Instagram: @pranavayush
+
+### Vinayak Raj
+Co-Founder, Investor & Business Manager
+Chartered Accountant (CA)
+
+📧 vinayakraj201@gmail.com
+📱 9354447494
+📷 Instagram: @vinayakrajrauniyar
+
+## 🌐 Socials
+
+Instagram: @plantsteller
+
+WhatsApp Channel:
+https://whatsapp.com/channel/0029VbDURy584Om3BSHvJl2d
+
+## 🚀 Vision
+
+PlantSteller aims to become India's most intelligent plant marketplace by combining AI, plant education, e-commerce, and community engagement into one seamless platform.
+
+---
+
+🌱 Bring Life To Your Space
