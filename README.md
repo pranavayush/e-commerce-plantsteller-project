@@ -76,14 +76,6 @@ B.Tech 3rd Year Student
 📱 6392826369
 📷 Instagram: @pranavayush
 
-### Vinayak Raj
-Co-Founder, Investor & Business Manager
-Chartered Accountant (CA)
-
-📧 vinayakraj201@gmail.com
-📱 9354447494
-📷 Instagram: @vinayakrajrauniyar
-
 ## 🌐 Socials
 
 Instagram: @plantsteller
